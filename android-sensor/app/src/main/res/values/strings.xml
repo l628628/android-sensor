@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android_sensor</string>
+    <string name="button_text">RESET</string>
+    <string name="tx1">Gyroscope reading:</string>
+    <string name="tx2">Turning angle(degree):</string>
+    <string name="num">0</string>
+</resources>
