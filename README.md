@@ -1,4 +1,4 @@
-# android-sensor# android-sensor
+# android-sensor
 
   本项目使用了Android Developer中对陀螺仪传感器的解释示例中采用的手机旋转角度计算方法，实时显示出其角速度（弧度制）。  
   RESET可重置角度的计算，即将其旋转角度置0并重新累计计算。  
